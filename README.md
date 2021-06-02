@@ -35,7 +35,7 @@ Pyomic有两种模式
 - 网络服务器模式（如果您的数据是 CSV）
 - 在 jupyter notebook（用于可视化 Python 数据），[详细内容点击此处](https://github.com/Starlitnightly/Pyomic)
 
-##详细使用
+## 详细使用
 Find_DEG提供图片显示和数据下载
 ```javascript
 在界面下方可以键入csv文件或直接上传csv文件，实现在线编辑功能
