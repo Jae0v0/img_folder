@@ -1,6 +1,6 @@
 # Pyomic - 高维交互式绘图网站
 
-![Logo](https://github.com/Jae0v0/img_folder/blob/main/162259747312723.png)
+![Logo](https://github.com/Jae0v0/img_folder/blob/main/162262901949367.png)
 
 [![docs](https://img.shields.io/badge/docs-passing-brightgreen.svg)](https://github.com/Starlitnightly/Pyomic)
 
